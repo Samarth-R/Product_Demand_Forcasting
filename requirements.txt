@@ -4,5 +4,6 @@ seaborn
 matplotlib
 ipykernel
 scikit-learn
-easypreprocessing
 xgboost
+sklearn==0.0
+easypreprocessing==1.0.3
